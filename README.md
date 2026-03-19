@@ -6,34 +6,39 @@ It allows users to explore movies based on genre, release year, and ratings.
 
 The app provides an interactive interface where users can view movie posters and detailed information for each movie, including the title, director, cast, duration, and a short description. It also includes direct IMDb links for more details.
 
+🔗 **Movie Recommender App Link:**
+[Try the app now!](https://movie-recommender-hjjmpgkbks9l5d5wcd5whn.streamlit.app/)
+
+---
 ## ✨ Features
 - 🎭 Filter movies by genre.
 - 📅 Select a specific year or range.
 - ⭐ View top-rated movies.
 - 🖼️ Display movie posters.
 - 📊 Interactive and simple UI.
-
+---
 ## 🖼️ Demo
 
  ### Screenshots For Some Filtered Results
 ![Main Interface](images/Screenshot1.png)
 ![App Screenshot](images/Screenshot2.png)
 ![App Screenshot](images/Screenshot3.png)
-
+---
 ## ▶️ Usage
 - Select your favorite genre.
 - Choose a year or range.
 - Click the "Recommend" button.
 - Browse movie posters and details.
-
+---
 ## 🛠️ Technologies Used
 - Python.
 - Streamlit.
 - Pandas.
 - HTML/CSS (for styling).
+---
 ## 📊 Dataset
 The app uses the [**IMDB Movies Dataset**](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data) from Kaggle, which contains information on the top 1000 movies and TV shows by IMDB rating.
-
+---
 ### Dataset Details:
 - **Poster:** Link to the movie poster.
 
@@ -65,6 +70,7 @@ The app uses the [**IMDB Movies Dataset**](https://www.kaggle.com/datasets/amanb
 
 - **Review:** The text of a top movie review.
 
+---
 ## 🙏 Acknowledgments
 
 I would like to express my sincere gratitude to:
