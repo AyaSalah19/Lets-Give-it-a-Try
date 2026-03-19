@@ -4,7 +4,7 @@
 This project is a Movie Recommendation Web App built using Streamlit.  
 It allows users to explore movies based on genre, release year, and ratings.
 
-The app provides an interactive interface where users can view movie posters and detailed information for each movie, including the title, director, cast, duration, and a short description. It also includes direct IMDb links for more details.
+The app provides an interactive interface where users can view movie posters and detailed information for each movie, including the title, director, cast, duration, and a short description. 
 
 🔗 **Movie Recommender App Link:**
 [Try the app now!](https://movie-recommender-hjjmpgkbks9l5d5wcd5whn.streamlit.app/)
@@ -38,7 +38,6 @@ The app provides an interactive interface where users can view movie posters and
 ---
 ## 📊 Dataset
 The app uses the [**IMDB Movies Dataset**](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data) from Kaggle, which contains information on the top 1000 movies and TV shows by IMDB rating.
----
 ### Dataset Details:
 - **Poster:** Link to the movie poster.
 
